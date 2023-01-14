@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/burakcersit/Social-Network-NoSQL-Api/issues"
   },
-  "homepage": "https://github.com/burakcersit/Social-Network-NoSQL-Api#readme"
+  "homepage": "https://github.com/burakcersit/Social-Network-NoSQL-Api#readme",
+  "dependencies": {
+    "mongoose": "^6.8.3"
+  }
 }
