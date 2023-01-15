@@ -49,7 +49,8 @@ const thoughtSchema = new Schema(
     id: false,
   }
 );
-
+const Reaction = model("Reaction", reactionSchema);
 const Thought = model("Thought", thoughtSchema);
 //exporting 
 module.exports = Thought;
+module.exports = Reaction;
